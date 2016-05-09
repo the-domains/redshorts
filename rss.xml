@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Redshorts]]></title>
         <description><![CDATA[Redshorts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/redshorts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 00:40:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 May 2016 00:41:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/redshorts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Festival of Fantasy]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/257f3bd3-8253-4382-a447-b863c4acb604.jpg">]]></description>
+            <link>https://thegrid.ai/redshorts/festival-of-fantasy/index.html</link>
+            <guid isPermaLink="false">5deaa4db-9c46-4429-a611-aed1a1f7b285</guid>
+            <pubDate>Mon, 09 May 2016 00:41:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ac9e206-e427-4627-aac5-a8d080466af3.png">]]></description>
-            <link>undefined4f5cb45b-c418-426f-a3e6-df38fd35beb2/index.html</link>
+            <link>https://thegrid.ai/redshorts/4f5cb45b-c418-426f-a3e6-df38fd35beb2/index.html</link>
             <guid isPermaLink="false">4f5cb45b-c418-426f-a3e6-df38fd35beb2</guid>
             <pubDate>Mon, 09 May 2016 00:40:34 GMT</pubDate>
         </item>
