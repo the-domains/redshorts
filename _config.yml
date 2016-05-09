@@ -1,7 +1,7 @@
 name: Redshorts
 favicon: null
-layout_spectrum: 0.6218068313319236
-typography_spectrum: 0.08476348128169775
+layout_spectrum: 0
+typography_spectrum: 0.05863
 cta:
   domain: null
   bucket: null
