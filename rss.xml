@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Redshorts]]></title>
+        <description><![CDATA[Redshorts]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 21 May 2016 04:13:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BEACH CLUB]]></title>
+            <description><![CDATA[<article><h1>BEACH CLUB</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a652ca8c1ec161e8ac79d4826b1ee5564fd67335.jpg"></article>]]></description>
+            <link>undefinedbeach-club/index.html</link>
+            <guid isPermaLink="false">c891a114-9953-4ff2-89d5-73f65627977e</guid>
+            <pubDate>Sat, 21 May 2016 04:13:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
