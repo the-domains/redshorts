@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Redshorts]]></title>
         <description><![CDATA[Redshorts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/redshorts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 04:13:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 21 May 2016 04:21:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/redshorts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NOT SO SCARY]]></title>
+            <description><![CDATA[<article><h1>NOT SO SCARY</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9e7b677aaf9d46222820c2219b615cb55e320cf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/redshorts/not-so-scary/index.html</link>
+            <guid isPermaLink="false">71b1eb80-bd31-4268-8301-860884a10dc2</guid>
+            <pubDate>Sat, 21 May 2016 04:20:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BEACH CLUB]]></title>
             <description><![CDATA[<article><h1>BEACH CLUB</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a652ca8c1ec161e8ac79d4826b1ee5564fd67335.jpg"></article>]]></description>
-            <link>undefinedbeach-club/index.html</link>
+            <link>https://thegrid.ai/redshorts/beach-club/index.html</link>
             <guid isPermaLink="false">c891a114-9953-4ff2-89d5-73f65627977e</guid>
             <pubDate>Sat, 21 May 2016 04:13:20 GMT</pubDate>
         </item>
