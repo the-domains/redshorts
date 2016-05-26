@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-21T16:03:28.655Z'
-dateModified: '2016-05-21T15:04:59.581Z'
-authors: []
-publisher: null
+datePublished: '2016-05-26T02:43:33.403Z'
+dateModified: '2016-05-26T02:43:33.060Z'
 title: Very Merry Christmas Party
 author: []
-starred: false
 sourcePath: _posts/2016-05-21-very-merry-christmas-party.md
+authors: []
+publisher: null
+starred: false
 url: very-merry-christmas-party/index.html
 _type: Article
 
