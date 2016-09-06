@@ -19,6 +19,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f9efb5d-89fb-433f-99e1-a7d017179838.png
 name: Redshorts
 cta:
   domain: null
